@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Chapter 12 Assignment: Following Links in Python
 

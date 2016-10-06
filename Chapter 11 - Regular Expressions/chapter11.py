@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Chapter 11 Assignment: Extracting Data With Regular Expressions
 

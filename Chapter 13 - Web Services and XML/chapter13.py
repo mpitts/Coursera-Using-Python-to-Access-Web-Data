@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Chapter 13 Assignment: Extracting Data from XML
 
